@@ -222,4 +222,5 @@
         [feedbackGenerator impactOccurred];
     }
 }
+
 @end
